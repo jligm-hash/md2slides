@@ -36,11 +36,6 @@ One simple click
 
 npm init slidev@latest
 
-npx slidev
-
-
-# locally install
-
 npm i -g @slidev/cli # may have error
 
 npx slidev
